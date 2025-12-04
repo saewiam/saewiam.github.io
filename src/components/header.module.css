@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    h1{
+        margin: 30px auto;
+        font-size: 3em;
+    }
+}
+
+.navigation{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    & > * {
+        flex-grow: 1;
+        font-size: 1.5em;
+        text-decoration: none;
+    }
+    :global(.active){
+        color: purple;
+    }
+}

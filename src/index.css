@@ -1,5 +1,8 @@
 /* main styling, must change components individually if i want diff styles */
 
-body{
+*{
   margin: 0;
+  font-family: Inter;
+  text-decoration: none;
+  color: black
 }
