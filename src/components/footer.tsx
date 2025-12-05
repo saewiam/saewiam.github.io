@@ -1,10 +1,8 @@
-import { css } from "@emotion/css";
+import classes from './footer.module.css'
 
 export default function Footer() {
   return (
-    <footer className={css`
-      text-align: center;
-    `}>
+    <footer className={classes.footer}>
         <p>footer</p>
     </footer>
   );

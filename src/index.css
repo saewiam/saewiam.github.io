@@ -4,5 +4,6 @@
   margin: 0;
   font-family: Inter;
   text-decoration: none;
-  color: black
+  color: black;
+  overflow: auto;
 }
