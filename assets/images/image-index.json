@@ -154,6 +154,18 @@
             "caption": "WI24 life drawing 2",
             "date": "2025-12-12",
             "fileName": "wi24 gage quick2.jpg"
-        }  
+        },
+        {
+            "name": "sum25 gage",
+            "caption": "summer 2025 life painting",
+            "date": "2025-12-12",
+            "fileName": "sum25 gage.jpg"
+        },
+         {
+            "name": "wi23 uw",
+            "caption": "winter 2023 life painting",
+            "date": "2025-12-12",
+            "fileName": "wi23 gloria.jpg"
+        }
     ]
 }
